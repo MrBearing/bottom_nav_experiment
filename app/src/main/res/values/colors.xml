@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#8999f2</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorLikeButton">#f7b13f</color>
+    <color name="colorDislikeButton">#b04f5a</color>
+    <color name="googleColor">#DB4C3E</color>
+    <color name="facebookColor">#5560B0</color>
+    <color name="twitterColor">#1DA1F3</color>
+    <color name="horizontalBar">#F8F8F8</color>
+    <color name="error_text">#FF3041 </color>
+</resources>

@@ -3,7 +3,7 @@ package com.tasktoysrt.exp
 import android.net.Uri
 import android.os.Bundle
 import android.support.design.widget.BottomNavigationView
-import android.support.v4.app.Fragment
+import android.support.v4.app.Fragment // TODO なぜV4のFragmentを使わなければならないか不明
 import android.support.v7.app.AppCompatActivity
 import android.util.Log
 import kotlinx.android.synthetic.main.activity_main.*

@@ -33,7 +33,7 @@ class Myflagment1 : Fragment() {
         }
     }
 
-    // 注意
+    // 注意 自動生成されたコードだとNullableが正しく設定されない
     override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?,
                               savedInstanceState: Bundle?): View? {
         // Inflate the layout for this fragment

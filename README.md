@@ -1,0 +1,2 @@
+# bottom_nav_experiment
+BottomNavigationBarを使用してフラグメントを切り替えるアプリのサンプル
